@@ -1,0 +1,66 @@
+body{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.avatar {
+    width: 150px;
+}
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:  #2b2839;
+    background-color: #E9DAC1;
+    border-bottom: 7px solid rgb(121, 71, 71);
+    border: 4px groove #876445;
+}
+
+
+.twitter{
+    color: dimgrey;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.twitter:hover {
+    color: #333333;
+}
+.facebook{
+    color: rgb(66, 66, 172);
+    text-decoration: none;
+    margin: 0 5px;
+}
+.facebook:hover{
+    color: blue;
+}
+.insta{
+    color: #3f729b;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.insta:hover{
+    color: brown;
+}
+
+.git{
+    color: #423f3f;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.git:hover{
+    color: #171515;
+}
+
+.linkedin{
+    color: #5fabd4;
+    text-decoration: none;
+    margin: 0 5px;
+    
+}
+.linkedin:hover{
+    color: #0072b1;
+}
